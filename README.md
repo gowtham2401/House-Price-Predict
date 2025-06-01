@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <h1><a href="https://gowtham2401.github.io/Quiz-App-Project-master/">Preview</a></h1>h1>
+   <h1><a href="https://gowtham2401.github.io/House-Price-Predict/">Preview</a></h1>
 <body>
   <div class="container">
     <h1>House Price Prediction</h1>
